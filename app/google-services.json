@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004702428262",
+    "project_id": "proyecto-construccion-software",
+    "storage_bucket": "proyecto-construccion-software.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004702428262:android:1fcf6aa29366c738a751a7",
+        "android_client_info": {
+          "package_name": "com.example.chikinotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWRhOEqoQo9ME2PGHwnBxUUHuof0m5B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

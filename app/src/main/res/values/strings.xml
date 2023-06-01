@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChikiNotes</string>
+    <string name="place_holder">Place Holder</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
